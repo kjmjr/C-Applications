@@ -1,0 +1,10 @@
+E:\c#\hw\calorie counter\calorie counter\bin\Debug\calorie counter.exe.config
+E:\c#\hw\calorie counter\calorie counter\bin\Debug\calorie counter.exe
+E:\c#\hw\calorie counter\calorie counter\bin\Debug\calorie counter.pdb
+E:\c#\hw\calorie counter\calorie counter\obj\Debug\calorie counter.csprojAssemblyReference.cache
+E:\c#\hw\calorie counter\calorie counter\obj\Debug\calorie_counter.calorieCounter.resources
+E:\c#\hw\calorie counter\calorie counter\obj\Debug\calorie_counter.Properties.Resources.resources
+E:\c#\hw\calorie counter\calorie counter\obj\Debug\calorie counter.csproj.GenerateResource.cache
+E:\c#\hw\calorie counter\calorie counter\obj\Debug\calorie counter.csproj.CoreCompileInputs.cache
+E:\c#\hw\calorie counter\calorie counter\obj\Debug\calorie counter.exe
+E:\c#\hw\calorie counter\calorie counter\obj\Debug\calorie counter.pdb
