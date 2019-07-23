@@ -1,0 +1,10 @@
+E:\c#\hw\Car_List\Car_List\obj\Debug\Car_List.csprojAssemblyReference.cache
+E:\c#\hw\Car_List\Car_List\obj\Debug\Car_List.carListForm.resources
+E:\c#\hw\Car_List\Car_List\obj\Debug\Car_List.Properties.Resources.resources
+E:\c#\hw\Car_List\Car_List\obj\Debug\Car_List.csproj.GenerateResource.cache
+E:\c#\hw\Car_List\Car_List\obj\Debug\Car_List.csproj.CoreCompileInputs.cache
+E:\c#\hw\Car_List\Car_List\bin\Debug\Car_List.exe.config
+E:\c#\hw\Car_List\Car_List\bin\Debug\Car_List.exe
+E:\c#\hw\Car_List\Car_List\bin\Debug\Car_List.pdb
+E:\c#\hw\Car_List\Car_List\obj\Debug\Car_List.exe
+E:\c#\hw\Car_List\Car_List\obj\Debug\Car_List.pdb
