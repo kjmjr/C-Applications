@@ -1,0 +1,10 @@
+E:\c#\hw\pigLatin\pigLatin\bin\Debug\pigLatin.exe.config
+E:\c#\hw\pigLatin\pigLatin\bin\Debug\pigLatin.exe
+E:\c#\hw\pigLatin\pigLatin\bin\Debug\pigLatin.pdb
+E:\c#\hw\pigLatin\pigLatin\obj\Debug\pigLatin.csprojAssemblyReference.cache
+E:\c#\hw\pigLatin\pigLatin\obj\Debug\pigLatin.pigLatinForm.resources
+E:\c#\hw\pigLatin\pigLatin\obj\Debug\pigLatin.Properties.Resources.resources
+E:\c#\hw\pigLatin\pigLatin\obj\Debug\pigLatin.csproj.GenerateResource.cache
+E:\c#\hw\pigLatin\pigLatin\obj\Debug\pigLatin.csproj.CoreCompileInputs.cache
+E:\c#\hw\pigLatin\pigLatin\obj\Debug\pigLatin.exe
+E:\c#\hw\pigLatin\pigLatin\obj\Debug\pigLatin.pdb
