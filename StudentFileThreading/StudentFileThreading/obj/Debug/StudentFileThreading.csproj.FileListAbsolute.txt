@@ -1,0 +1,7 @@
+D:\Advanced c#\StudentFileThreading\StudentFileThreading\bin\Debug\StudentFileThreading.exe.config
+D:\Advanced c#\StudentFileThreading\StudentFileThreading\bin\Debug\StudentFileThreading.exe
+D:\Advanced c#\StudentFileThreading\StudentFileThreading\bin\Debug\StudentFileThreading.pdb
+D:\Advanced c#\StudentFileThreading\StudentFileThreading\obj\Debug\StudentFileThreading.csprojResolveAssemblyReference.cache
+D:\Advanced c#\StudentFileThreading\StudentFileThreading\obj\Debug\StudentFileThreading.csproj.CoreCompileInputs.cache
+D:\Advanced c#\StudentFileThreading\StudentFileThreading\obj\Debug\StudentFileThreading.exe
+D:\Advanced c#\StudentFileThreading\StudentFileThreading\obj\Debug\StudentFileThreading.pdb
