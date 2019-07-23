@@ -1,0 +1,12 @@
+E:\c#\hw\personnelDatabase\personnelDatabase\bin\Debug\Personnel.mdf
+E:\c#\hw\personnelDatabase\personnelDatabase\bin\Debug\Personnel_log.ldf
+E:\c#\hw\personnelDatabase\personnelDatabase\bin\Debug\personnelDatabase.exe.config
+E:\c#\hw\personnelDatabase\personnelDatabase\bin\Debug\personnelDatabase.exe
+E:\c#\hw\personnelDatabase\personnelDatabase\bin\Debug\personnelDatabase.pdb
+E:\c#\hw\personnelDatabase\personnelDatabase\obj\Debug\personnelDatabase.Form1.resources
+E:\c#\hw\personnelDatabase\personnelDatabase\obj\Debug\personnelDatabase.Properties.Resources.resources
+E:\c#\hw\personnelDatabase\personnelDatabase\obj\Debug\personnelDatabase.csproj.GenerateResource.Cache
+E:\c#\hw\personnelDatabase\personnelDatabase\obj\Debug\personnelDatabase.csproj.CoreCompileInputs.cache
+E:\c#\hw\personnelDatabase\personnelDatabase\obj\Debug\personnelDatabase.exe
+E:\c#\hw\personnelDatabase\personnelDatabase\obj\Debug\personnelDatabase.pdb
+E:\c#\hw\personnelDatabase\personnelDatabase\obj\Debug\personnelDatabase.csprojAssemblyReference.cache
