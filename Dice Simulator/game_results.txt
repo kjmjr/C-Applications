@@ -1,0 +1,5 @@
+
+Number of wins by user is 0
+Number of wins by computer is 0
+Number of ties is 1
+
