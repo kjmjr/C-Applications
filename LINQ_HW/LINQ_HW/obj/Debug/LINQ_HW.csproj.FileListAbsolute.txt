@@ -1,0 +1,7 @@
+E:\Advanced c#\LINQ_HW\LINQ_HW\bin\Debug\LINQ_HW.exe.config
+E:\Advanced c#\LINQ_HW\LINQ_HW\bin\Debug\LINQ_HW.exe
+E:\Advanced c#\LINQ_HW\LINQ_HW\bin\Debug\LINQ_HW.pdb
+E:\Advanced c#\LINQ_HW\LINQ_HW\obj\Debug\LINQ_HW.csprojResolveAssemblyReference.cache
+E:\Advanced c#\LINQ_HW\LINQ_HW\obj\Debug\LINQ_HW.csproj.CoreCompileInputs.cache
+E:\Advanced c#\LINQ_HW\LINQ_HW\obj\Debug\LINQ_HW.exe
+E:\Advanced c#\LINQ_HW\LINQ_HW\obj\Debug\LINQ_HW.pdb
