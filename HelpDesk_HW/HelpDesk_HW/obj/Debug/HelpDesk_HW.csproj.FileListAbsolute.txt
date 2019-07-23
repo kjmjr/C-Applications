@@ -1,0 +1,7 @@
+E:\Advanced c#\HelpDesk_HW\HelpDesk_HW\bin\Debug\HelpDesk_HW.exe.config
+E:\Advanced c#\HelpDesk_HW\HelpDesk_HW\bin\Debug\HelpDesk_HW.exe
+E:\Advanced c#\HelpDesk_HW\HelpDesk_HW\bin\Debug\HelpDesk_HW.pdb
+E:\Advanced c#\HelpDesk_HW\HelpDesk_HW\obj\Debug\HelpDesk_HW.csprojResolveAssemblyReference.cache
+E:\Advanced c#\HelpDesk_HW\HelpDesk_HW\obj\Debug\HelpDesk_HW.csproj.CoreCompileInputs.cache
+E:\Advanced c#\HelpDesk_HW\HelpDesk_HW\obj\Debug\HelpDesk_HW.exe
+E:\Advanced c#\HelpDesk_HW\HelpDesk_HW\obj\Debug\HelpDesk_HW.pdb
