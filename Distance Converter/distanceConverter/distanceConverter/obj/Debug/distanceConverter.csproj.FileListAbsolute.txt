@@ -1,0 +1,10 @@
+E:\c#\hw\Distance Converter\distanceConverter\distanceConverter\bin\Debug\distanceConverter.exe.config
+E:\c#\hw\Distance Converter\distanceConverter\distanceConverter\bin\Debug\distanceConverter.exe
+E:\c#\hw\Distance Converter\distanceConverter\distanceConverter\bin\Debug\distanceConverter.pdb
+E:\c#\hw\Distance Converter\distanceConverter\distanceConverter\obj\Debug\distanceConverter.csprojAssemblyReference.cache
+E:\c#\hw\Distance Converter\distanceConverter\distanceConverter\obj\Debug\distanceConverter.distanceConverter.resources
+E:\c#\hw\Distance Converter\distanceConverter\distanceConverter\obj\Debug\distanceConverter.Properties.Resources.resources
+E:\c#\hw\Distance Converter\distanceConverter\distanceConverter\obj\Debug\distanceConverter.csproj.GenerateResource.cache
+E:\c#\hw\Distance Converter\distanceConverter\distanceConverter\obj\Debug\distanceConverter.csproj.CoreCompileInputs.cache
+E:\c#\hw\Distance Converter\distanceConverter\distanceConverter\obj\Debug\distanceConverter.exe
+E:\c#\hw\Distance Converter\distanceConverter\distanceConverter\obj\Debug\distanceConverter.pdb
