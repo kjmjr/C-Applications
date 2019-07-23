@@ -1,0 +1,10 @@
+E:\c#\hw\cardIdentifier\cardIdentifier\bin\Debug\cardIdentifier.exe.config
+E:\c#\hw\cardIdentifier\cardIdentifier\bin\Debug\cardIdentifier.exe
+E:\c#\hw\cardIdentifier\cardIdentifier\bin\Debug\cardIdentifier.pdb
+E:\c#\hw\cardIdentifier\cardIdentifier\obj\Debug\cardIdentifier.csprojAssemblyReference.cache
+E:\c#\hw\cardIdentifier\cardIdentifier\obj\Debug\cardIdentifier.cardID.resources
+E:\c#\hw\cardIdentifier\cardIdentifier\obj\Debug\cardIdentifier.Properties.Resources.resources
+E:\c#\hw\cardIdentifier\cardIdentifier\obj\Debug\cardIdentifier.csproj.GenerateResource.cache
+E:\c#\hw\cardIdentifier\cardIdentifier\obj\Debug\cardIdentifier.csproj.CoreCompileInputs.cache
+E:\c#\hw\cardIdentifier\cardIdentifier\obj\Debug\cardIdentifier.exe
+E:\c#\hw\cardIdentifier\cardIdentifier\obj\Debug\cardIdentifier.pdb
