@@ -1,0 +1,15 @@
+E:\Advanced c#\WPF_Calculator\WPF_Calculator\bin\Debug\WPF_Calculator.exe.config
+E:\Advanced c#\WPF_Calculator\WPF_Calculator\bin\Debug\WPF_Calculator.exe
+E:\Advanced c#\WPF_Calculator\WPF_Calculator\bin\Debug\WPF_Calculator.pdb
+E:\Advanced c#\WPF_Calculator\WPF_Calculator\obj\Debug\MainWindow.g.cs
+E:\Advanced c#\WPF_Calculator\WPF_Calculator\obj\Debug\App.g.cs
+E:\Advanced c#\WPF_Calculator\WPF_Calculator\obj\Debug\WPF_Calculator_MarkupCompile.cache
+E:\Advanced c#\WPF_Calculator\WPF_Calculator\obj\Debug\WPF_Calculator_MarkupCompile.lref
+E:\Advanced c#\WPF_Calculator\WPF_Calculator\obj\Debug\MainWindow.baml
+E:\Advanced c#\WPF_Calculator\WPF_Calculator\obj\Debug\WPF_Calculator.g.resources
+E:\Advanced c#\WPF_Calculator\WPF_Calculator\obj\Debug\WPF_Calculator.Properties.Resources.resources
+E:\Advanced c#\WPF_Calculator\WPF_Calculator\obj\Debug\WPF_Calculator.csproj.GenerateResource.Cache
+E:\Advanced c#\WPF_Calculator\WPF_Calculator\obj\Debug\WPF_Calculator.csproj.CoreCompileInputs.cache
+E:\Advanced c#\WPF_Calculator\WPF_Calculator\obj\Debug\WPF_Calculator.exe
+E:\Advanced c#\WPF_Calculator\WPF_Calculator\obj\Debug\WPF_Calculator.pdb
+E:\Advanced c#\WPF_Calculator\WPF_Calculator\obj\Debug\WPF_Calculator.csprojAssemblyReference.cache

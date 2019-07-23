@@ -1,0 +1,29 @@
+﻿<Window x:Class="WPF_Calculator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_Calculator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="387.94" Width="525">
+    <Grid>
+        <TextBox x:Name="txtShowAnswer" HorizontalAlignment="Left" Height="49" Margin="36,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="264"/>
+        <Button x:Name="btnTwo" Content="2" HorizontalAlignment="Left" Margin="130,73,0,0" VerticalAlignment="Top" Width="75" Height="53" Click="btnTwo_Click"/>
+        <Button x:Name="btnFour" Content="4" HorizontalAlignment="Left" Margin="36,146,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.453,1.517" Height="51" Click="btnFour_Click"/>
+        <Button x:Name="btnThree" Content="3" HorizontalAlignment="Left" Margin="225,73,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.524,-0.427" Height="53" Click="btnThree_Click"/>
+        <Button x:Name="btnFive" Content="5" HorizontalAlignment="Left" Margin="130,146,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.061,0.633" Height="51" Click="btnFive_Click"/>
+        <Button x:Name="btnSeven" Content="7" HorizontalAlignment="Left" Margin="36,219,0,0" VerticalAlignment="Top" Width="75" Height="55" Click="btnSeven_Click"/>
+        <Button x:Name="btnEight" Content="8" HorizontalAlignment="Left" Margin="130,219,0,0" VerticalAlignment="Top" Width="75" Height="55" Click="btnEight_Click"/>
+        <Button x:Name="btnZero" Content="0" HorizontalAlignment="Left" Margin="36,294,0,0" VerticalAlignment="Top" Width="75" Height="53" Click="btnZero_Click"/>
+        <Button x:Name="btnNine" Content="9" HorizontalAlignment="Left" Margin="225,219,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="1.422,-0.728" Height="55" Click="btnNine_Click"/>
+        <Button x:Name="btnSix" Content="6" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="225,146,0,0" Height="51" Click="btnSix_Click"/>
+        <Button x:Name="btnOne" Content="1" HorizontalAlignment="Left" Margin="36,73,0,0" VerticalAlignment="Top" Width="75" Height="53" Click="btnOne_Click"/>
+        <Button x:Name="btnClear" Content="C" HorizontalAlignment="Left" Margin="225,294,0,0" VerticalAlignment="Top" Width="75" Height="53" Click="btnClear_Click"/>
+        <Button x:Name="btnPlus" Content="+" HorizontalAlignment="Left" Margin="425,73,0,0" VerticalAlignment="Top" Width="75" Height="53" Click="btnPlus_Click"/>
+        <Button x:Name="btnMinus" Content="-" HorizontalAlignment="Left" Margin="425,146,0,0" VerticalAlignment="Top" Width="75" Height="51" Click="btnMinus_Click"/>
+        <Button x:Name="btnEquals" Content="=" HorizontalAlignment="Left" Margin="380,294,0,0" VerticalAlignment="Top" Width="75" Height="53" RenderTransformOrigin="0.432,1.632" Click="btnEquals_Click"/>
+        <Button x:Name="btnMultiplication" Content="*" HorizontalAlignment="Left" Margin="330,73,0,0" VerticalAlignment="Top" Width="75" Height="53" Click="btnMultiplication_Click"/>
+        <Button x:Name="btnDivision" Content="/" HorizontalAlignment="Left" Margin="330,146,0,0" VerticalAlignment="Top" Width="75" Height="51" Click="btnDivision_Click"/>
+
+    </Grid>
+</Window>
