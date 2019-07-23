@@ -1,0 +1,7 @@
+E:\Advanced c#\Lists_and_Dictionaries_HW\Lists_and_Dictionaries_HW\bin\Debug\Lists_and_Dictionaries_HW.exe.config
+E:\Advanced c#\Lists_and_Dictionaries_HW\Lists_and_Dictionaries_HW\bin\Debug\Lists_and_Dictionaries_HW.exe
+E:\Advanced c#\Lists_and_Dictionaries_HW\Lists_and_Dictionaries_HW\bin\Debug\Lists_and_Dictionaries_HW.pdb
+E:\Advanced c#\Lists_and_Dictionaries_HW\Lists_and_Dictionaries_HW\obj\Debug\Lists_and_Dictionaries_HW.csprojResolveAssemblyReference.cache
+E:\Advanced c#\Lists_and_Dictionaries_HW\Lists_and_Dictionaries_HW\obj\Debug\Lists_and_Dictionaries_HW.csproj.CoreCompileInputs.cache
+E:\Advanced c#\Lists_and_Dictionaries_HW\Lists_and_Dictionaries_HW\obj\Debug\Lists_and_Dictionaries_HW.exe
+E:\Advanced c#\Lists_and_Dictionaries_HW\Lists_and_Dictionaries_HW\obj\Debug\Lists_and_Dictionaries_HW.pdb
