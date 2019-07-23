@@ -1,0 +1,10 @@
+E:\c#\hw\Color_Spectrum\Color_Spectrum\bin\Debug\Color_Spectrum.exe.config
+E:\c#\hw\Color_Spectrum\Color_Spectrum\bin\Debug\Color_Spectrum.exe
+E:\c#\hw\Color_Spectrum\Color_Spectrum\bin\Debug\Color_Spectrum.pdb
+E:\c#\hw\Color_Spectrum\Color_Spectrum\obj\Debug\Color_Spectrum.csprojAssemblyReference.cache
+E:\c#\hw\Color_Spectrum\Color_Spectrum\obj\Debug\Color_Spectrum.colorSpectrumForm.resources
+E:\c#\hw\Color_Spectrum\Color_Spectrum\obj\Debug\Color_Spectrum.Properties.Resources.resources
+E:\c#\hw\Color_Spectrum\Color_Spectrum\obj\Debug\Color_Spectrum.csproj.GenerateResource.cache
+E:\c#\hw\Color_Spectrum\Color_Spectrum\obj\Debug\Color_Spectrum.csproj.CoreCompileInputs.cache
+E:\c#\hw\Color_Spectrum\Color_Spectrum\obj\Debug\Color_Spectrum.exe
+E:\c#\hw\Color_Spectrum\Color_Spectrum\obj\Debug\Color_Spectrum.pdb
