@@ -1,0 +1,10 @@
+E:\c#\MilesPerGallon\MilesPerGallon\bin\Debug\MilesPerGallon.exe.config
+E:\c#\MilesPerGallon\MilesPerGallon\bin\Debug\MilesPerGallon.exe
+E:\c#\MilesPerGallon\MilesPerGallon\bin\Debug\MilesPerGallon.pdb
+E:\c#\MilesPerGallon\MilesPerGallon\obj\Debug\MilesPerGallon.Form1.resources
+E:\c#\MilesPerGallon\MilesPerGallon\obj\Debug\MilesPerGallon.Properties.Resources.resources
+E:\c#\MilesPerGallon\MilesPerGallon\obj\Debug\MilesPerGallon.csproj.GenerateResource.Cache
+E:\c#\MilesPerGallon\MilesPerGallon\obj\Debug\MilesPerGallon.csproj.CoreCompileInputs.cache
+E:\c#\MilesPerGallon\MilesPerGallon\obj\Debug\MilesPerGallon.exe
+E:\c#\MilesPerGallon\MilesPerGallon\obj\Debug\MilesPerGallon.pdb
+E:\c#\MilesPerGallon\MilesPerGallon\obj\Debug\MilesPerGallon.csprojAssemblyReference.cache
