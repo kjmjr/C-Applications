@@ -1,0 +1,11 @@
+E:\c#\hw\CarClass\CarClass\bin\Debug\CarClass.exe.config
+E:\c#\hw\CarClass\CarClass\bin\Debug\CarClass.exe
+E:\c#\hw\CarClass\CarClass\bin\Debug\CarClass.pdb
+E:\c#\hw\CarClass\CarClass\obj\Debug\CarClass.csprojAssemblyReference.cache
+E:\c#\hw\CarClass\CarClass\obj\Debug\CarClass.carProgramForm.resources
+E:\c#\hw\CarClass\CarClass\obj\Debug\CarClass.Information.resources
+E:\c#\hw\CarClass\CarClass\obj\Debug\CarClass.Properties.Resources.resources
+E:\c#\hw\CarClass\CarClass\obj\Debug\CarClass.csproj.GenerateResource.cache
+E:\c#\hw\CarClass\CarClass\obj\Debug\CarClass.csproj.CoreCompileInputs.cache
+E:\c#\hw\CarClass\CarClass\obj\Debug\CarClass.exe
+E:\c#\hw\CarClass\CarClass\obj\Debug\CarClass.pdb
