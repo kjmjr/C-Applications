@@ -1,0 +1,11 @@
+E:\Advanced c#\Math_Client\Math_Client\bin\Debug\Math_Client.exe.config
+E:\Advanced c#\Math_Client\Math_Client\bin\Debug\Math_Client.xml
+E:\Advanced c#\Math_Client\Math_Client\bin\Debug\Math_Client.exe
+E:\Advanced c#\Math_Client\Math_Client\bin\Debug\Math_Client.pdb
+E:\Advanced c#\Math_Client\Math_Client\obj\Debug\Math_Client.csproj.CoreCompileInputs.cache
+E:\Advanced c#\Math_Client\Math_Client\obj\Debug\Math_Client.exe
+E:\Advanced c#\Math_Client\Math_Client\obj\Debug\Math_Client.pdb
+E:\Advanced c#\Math_Client\Math_Client\bin\Debug\Math_Library.dll
+E:\Advanced c#\Math_Client\Math_Client\bin\Debug\Math_Library.pdb
+E:\Advanced c#\Math_Client\Math_Client\bin\Debug\Math_Library.xml
+E:\Advanced c#\Math_Client\Math_Client\obj\Debug\Math_Client.csprojResolveAssemblyReference.cache

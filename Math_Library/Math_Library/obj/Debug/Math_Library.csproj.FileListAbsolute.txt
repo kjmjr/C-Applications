@@ -1,0 +1,7 @@
+E:\Advanced c#\Math_Library\Math_Library\bin\Debug\Math_Library.xml
+E:\Advanced c#\Math_Library\Math_Library\bin\Debug\Math_Library.dll
+E:\Advanced c#\Math_Library\Math_Library\bin\Debug\Math_Library.pdb
+E:\Advanced c#\Math_Library\Math_Library\obj\Debug\Math_Library.csproj.CoreCompileInputs.cache
+E:\Advanced c#\Math_Library\Math_Library\obj\Debug\Math_Library.dll
+E:\Advanced c#\Math_Library\Math_Library\obj\Debug\Math_Library.pdb
+E:\Advanced c#\Math_Library\Math_Library\obj\Debug\Math_Library.csprojResolveAssemblyReference.cache

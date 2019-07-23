@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Math_Library</name>
+    </assembly>
+    <members>
+        <member name="T:Math_Library.Library">
+            <summary>
+            xml documentation
+            </summary>
+        </member>
+        <member name="M:Math_Library.Library.Large_Number_Method(System.Int32,System.Int32)">
+            <summary>
+             accepts two integers and returns the larger integer
+            </summary>
+            <param name="num1"></param>
+            <param name="num2"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Math_Library.Library.Large_Number_Method(System.Int32,System.Int32,System.Int32)">
+            <summary>
+             accepts three integers and returns the larger integer
+            </summary>
+            <param name="num1"></param>
+            <param name="num2"></param>
+            <param name="num3"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Math_Library.Library.Large_Number_Method(System.Int32,System.Int32,System.Int32,System.Int32)">
+            <summary>
+             accepts four integers and returns the larger integer
+            </summary>
+            <param name="num1"></param>
+            <param name="num2"></param>
+            <param name="num3"></param>
+            <param name="num4"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
