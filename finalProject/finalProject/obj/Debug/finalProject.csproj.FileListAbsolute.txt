@@ -1,0 +1,17 @@
+E:\c#\hw\finalProject\finalProject\bin\Debug\finalProject.exe.config
+E:\c#\hw\finalProject\finalProject\bin\Debug\finalProject.exe
+E:\c#\hw\finalProject\finalProject\bin\Debug\finalProject.pdb
+E:\c#\hw\finalProject\finalProject\obj\Debug\finalProject.csprojAssemblyReference.cache
+E:\c#\hw\finalProject\finalProject\obj\Debug\finalProject.wheelOfFortune.resources
+E:\c#\hw\finalProject\finalProject\obj\Debug\finalProject.guesser.resources
+E:\c#\hw\finalProject\finalProject\obj\Debug\finalProject.Properties.Resources.resources
+E:\c#\hw\finalProject\finalProject\obj\Debug\finalProject.solver.resources
+E:\c#\hw\finalProject\finalProject\obj\Debug\finalProject.winner.resources
+E:\c#\hw\finalProject\finalProject\obj\Debug\finalProject.csproj.GenerateResource.cache
+E:\c#\hw\finalProject\finalProject\obj\Debug\finalProject.csproj.CoreCompileInputs.cache
+E:\c#\hw\finalProject\finalProject\obj\Debug\finalProject.exe
+E:\c#\hw\finalProject\finalProject\obj\Debug\finalProject.pdb
+E:\c#\hw\finalProject\finalProject\obj\Debug\finalProject.guesserThree.resources
+E:\c#\hw\finalProject\finalProject\obj\Debug\finalProject.guesserTwo.resources
+E:\c#\hw\finalProject\finalProject\obj\Debug\finalProject.solverThree.resources
+E:\c#\hw\finalProject\finalProject\obj\Debug\finalProject.solverTwo.resources
