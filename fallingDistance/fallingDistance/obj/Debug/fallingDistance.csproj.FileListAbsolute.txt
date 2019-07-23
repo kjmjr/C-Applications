@@ -1,0 +1,10 @@
+E:\c#\hw\fallingDistance\fallingDistance\bin\Debug\fallingDistance.exe.config
+E:\c#\hw\fallingDistance\fallingDistance\bin\Debug\fallingDistance.exe
+E:\c#\hw\fallingDistance\fallingDistance\bin\Debug\fallingDistance.pdb
+E:\c#\hw\fallingDistance\fallingDistance\obj\Debug\fallingDistance.csprojAssemblyReference.cache
+E:\c#\hw\fallingDistance\fallingDistance\obj\Debug\fallingDistance.frmFallingDistance.resources
+E:\c#\hw\fallingDistance\fallingDistance\obj\Debug\fallingDistance.Properties.Resources.resources
+E:\c#\hw\fallingDistance\fallingDistance\obj\Debug\fallingDistance.csproj.GenerateResource.cache
+E:\c#\hw\fallingDistance\fallingDistance\obj\Debug\fallingDistance.csproj.CoreCompileInputs.cache
+E:\c#\hw\fallingDistance\fallingDistance\obj\Debug\fallingDistance.exe
+E:\c#\hw\fallingDistance\fallingDistance\obj\Debug\fallingDistance.pdb
