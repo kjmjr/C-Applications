@@ -1,0 +1,6 @@
+E:\Advanced c#\WeatherLibrary\WeatherLibrary\bin\Release\WeatherLibrary.dll
+E:\Advanced c#\WeatherLibrary\WeatherLibrary\bin\Release\WeatherLibrary.pdb
+E:\Advanced c#\WeatherLibrary\WeatherLibrary\obj\Release\WeatherLibrary.csprojAssemblyReference.cache
+E:\Advanced c#\WeatherLibrary\WeatherLibrary\obj\Release\WeatherLibrary.csproj.CoreCompileInputs.cache
+E:\Advanced c#\WeatherLibrary\WeatherLibrary\obj\Release\WeatherLibrary.dll
+E:\Advanced c#\WeatherLibrary\WeatherLibrary\obj\Release\WeatherLibrary.pdb

@@ -1,0 +1,14 @@
+E:\Advanced c#\WeatherTester\WeatherTester\bin\Debug\WeatherTester.exe.config
+E:\Advanced c#\WeatherTester\WeatherTester\bin\Debug\WeatherTester.exe
+E:\Advanced c#\WeatherTester\WeatherTester\bin\Debug\WeatherTester.pdb
+E:\Advanced c#\WeatherTester\WeatherTester\bin\Debug\WeatherLibrary.dll
+E:\Advanced c#\WeatherTester\WeatherTester\bin\Debug\WeatherLibrary.pdb
+E:\Advanced c#\WeatherTester\WeatherTester\obj\Debug\WeatherTester.csprojAssemblyReference.cache
+E:\Advanced c#\WeatherTester\WeatherTester\obj\Debug\WeatherTester.Properties.Resources.resources
+E:\Advanced c#\WeatherTester\WeatherTester\obj\Debug\WeatherTester.csproj.GenerateResource.cache
+E:\Advanced c#\WeatherTester\WeatherTester\obj\Debug\WeatherTester.csproj.CoreCompileInputs.cache
+E:\Advanced c#\WeatherTester\WeatherTester\obj\Debug\WeatherTester.csproj.CopyComplete
+E:\Advanced c#\WeatherTester\WeatherTester\obj\Debug\WeatherTester.exe
+E:\Advanced c#\WeatherTester\WeatherTester\obj\Debug\WeatherTester.pdb
+E:\Advanced c#\WeatherTester\WeatherTester\obj\Debug\WeatherTester.WeatherFormOne.resources
+E:\Advanced c#\WeatherTester\WeatherTester\obj\Debug\WeatherTester.WeatherFormTwo.resources
