@@ -1,0 +1,7 @@
+E:\Advanced c#\NamesAndGradesHandling\NamesAndGradesHandling\bin\Debug\NamesAndGradesHandling.exe.config
+E:\Advanced c#\NamesAndGradesHandling\NamesAndGradesHandling\bin\Debug\NamesAndGradesHandling.exe
+E:\Advanced c#\NamesAndGradesHandling\NamesAndGradesHandling\bin\Debug\NamesAndGradesHandling.pdb
+E:\Advanced c#\NamesAndGradesHandling\NamesAndGradesHandling\obj\Debug\NamesAndGradesHandling.csproj.CoreCompileInputs.cache
+E:\Advanced c#\NamesAndGradesHandling\NamesAndGradesHandling\obj\Debug\NamesAndGradesHandling.exe
+E:\Advanced c#\NamesAndGradesHandling\NamesAndGradesHandling\obj\Debug\NamesAndGradesHandling.pdb
+E:\Advanced c#\NamesAndGradesHandling\NamesAndGradesHandling\obj\Debug\NamesAndGradesHandling.csprojAssemblyReference.cache
