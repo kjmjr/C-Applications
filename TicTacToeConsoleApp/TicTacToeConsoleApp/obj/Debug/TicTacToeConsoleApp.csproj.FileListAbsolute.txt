@@ -1,0 +1,7 @@
+E:\c#\hw\TicTacToeConsoleApp\TicTacToeConsoleApp\bin\Debug\TicTacToeConsoleApp.exe.config
+E:\c#\hw\TicTacToeConsoleApp\TicTacToeConsoleApp\bin\Debug\TicTacToeConsoleApp.exe
+E:\c#\hw\TicTacToeConsoleApp\TicTacToeConsoleApp\bin\Debug\TicTacToeConsoleApp.pdb
+E:\c#\hw\TicTacToeConsoleApp\TicTacToeConsoleApp\obj\Debug\TicTacToeConsoleApp.csprojAssemblyReference.cache
+E:\c#\hw\TicTacToeConsoleApp\TicTacToeConsoleApp\obj\Debug\TicTacToeConsoleApp.csproj.CoreCompileInputs.cache
+E:\c#\hw\TicTacToeConsoleApp\TicTacToeConsoleApp\obj\Debug\TicTacToeConsoleApp.exe
+E:\c#\hw\TicTacToeConsoleApp\TicTacToeConsoleApp\obj\Debug\TicTacToeConsoleApp.pdb
