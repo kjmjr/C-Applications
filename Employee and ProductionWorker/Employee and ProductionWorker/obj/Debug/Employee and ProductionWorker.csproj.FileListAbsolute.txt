@@ -1,0 +1,10 @@
+E:\c#\hw\Employee and ProductionWorker\Employee and ProductionWorker\bin\Debug\Employee and ProductionWorker.exe.config
+E:\c#\hw\Employee and ProductionWorker\Employee and ProductionWorker\bin\Debug\Employee and ProductionWorker.exe
+E:\c#\hw\Employee and ProductionWorker\Employee and ProductionWorker\bin\Debug\Employee and ProductionWorker.pdb
+E:\c#\hw\Employee and ProductionWorker\Employee and ProductionWorker\obj\Debug\Employee and ProductionWorker.csprojAssemblyReference.cache
+E:\c#\hw\Employee and ProductionWorker\Employee and ProductionWorker\obj\Debug\Employee_and_ProductionWorker.EmployeeAndProductionWorker.resources
+E:\c#\hw\Employee and ProductionWorker\Employee and ProductionWorker\obj\Debug\Employee_and_ProductionWorker.Properties.Resources.resources
+E:\c#\hw\Employee and ProductionWorker\Employee and ProductionWorker\obj\Debug\Employee and ProductionWorker.csproj.GenerateResource.cache
+E:\c#\hw\Employee and ProductionWorker\Employee and ProductionWorker\obj\Debug\Employee and ProductionWorker.csproj.CoreCompileInputs.cache
+E:\c#\hw\Employee and ProductionWorker\Employee and ProductionWorker\obj\Debug\Employee and ProductionWorker.exe
+E:\c#\hw\Employee and ProductionWorker\Employee and ProductionWorker\obj\Debug\Employee and ProductionWorker.pdb
