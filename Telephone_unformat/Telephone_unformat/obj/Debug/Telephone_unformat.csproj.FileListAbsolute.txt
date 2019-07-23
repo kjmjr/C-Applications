@@ -1,0 +1,10 @@
+E:\c#\hw\Telephone_unformat\Telephone_unformat\bin\Debug\Telephone_unformat.exe.config
+E:\c#\hw\Telephone_unformat\Telephone_unformat\bin\Debug\Telephone_unformat.exe
+E:\c#\hw\Telephone_unformat\Telephone_unformat\bin\Debug\Telephone_unformat.pdb
+E:\c#\hw\Telephone_unformat\Telephone_unformat\obj\Debug\Telephone_unformat.csprojAssemblyReference.cache
+E:\c#\hw\Telephone_unformat\Telephone_unformat\obj\Debug\Telephone_unformat.telephoneUnformatForm.resources
+E:\c#\hw\Telephone_unformat\Telephone_unformat\obj\Debug\Telephone_unformat.Properties.Resources.resources
+E:\c#\hw\Telephone_unformat\Telephone_unformat\obj\Debug\Telephone_unformat.csproj.GenerateResource.cache
+E:\c#\hw\Telephone_unformat\Telephone_unformat\obj\Debug\Telephone_unformat.csproj.CoreCompileInputs.cache
+E:\c#\hw\Telephone_unformat\Telephone_unformat\obj\Debug\Telephone_unformat.exe
+E:\c#\hw\Telephone_unformat\Telephone_unformat\obj\Debug\Telephone_unformat.pdb

@@ -1,0 +1,10 @@
+E:\c#\hw\telephoneFormat\telephoneFormat\bin\Debug\telephoneFormat.exe.config
+E:\c#\hw\telephoneFormat\telephoneFormat\bin\Debug\telephoneFormat.exe
+E:\c#\hw\telephoneFormat\telephoneFormat\bin\Debug\telephoneFormat.pdb
+E:\c#\hw\telephoneFormat\telephoneFormat\obj\Debug\telephoneFormat.Form1.resources
+E:\c#\hw\telephoneFormat\telephoneFormat\obj\Debug\telephoneFormat.Properties.Resources.resources
+E:\c#\hw\telephoneFormat\telephoneFormat\obj\Debug\telephoneFormat.csproj.GenerateResource.cache
+E:\c#\hw\telephoneFormat\telephoneFormat\obj\Debug\telephoneFormat.csproj.CoreCompileInputs.cache
+E:\c#\hw\telephoneFormat\telephoneFormat\obj\Debug\telephoneFormat.exe
+E:\c#\hw\telephoneFormat\telephoneFormat\obj\Debug\telephoneFormat.pdb
+E:\c#\hw\telephoneFormat\telephoneFormat\obj\Debug\telephoneFormat.csprojAssemblyReference.cache
