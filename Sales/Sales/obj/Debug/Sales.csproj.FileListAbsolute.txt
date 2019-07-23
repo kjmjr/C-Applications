@@ -1,0 +1,10 @@
+E:\c#\hw\Sales\Sales\bin\Debug\Sales.exe.config
+E:\c#\hw\Sales\Sales\bin\Debug\Sales.exe
+E:\c#\hw\Sales\Sales\bin\Debug\Sales.pdb
+E:\c#\hw\Sales\Sales\obj\Debug\Sales.csprojAssemblyReference.cache
+E:\c#\hw\Sales\Sales\obj\Debug\Sales.totalSales.resources
+E:\c#\hw\Sales\Sales\obj\Debug\Sales.Properties.Resources.resources
+E:\c#\hw\Sales\Sales\obj\Debug\Sales.csproj.GenerateResource.cache
+E:\c#\hw\Sales\Sales\obj\Debug\Sales.csproj.CoreCompileInputs.cache
+E:\c#\hw\Sales\Sales\obj\Debug\Sales.exe
+E:\c#\hw\Sales\Sales\obj\Debug\Sales.pdb
